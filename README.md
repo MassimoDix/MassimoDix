@@ -2,7 +2,7 @@
 - 👀 I’m interested in database
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on this
-- 📫 How to reach me call me
+- 📫 How to reach me call me on mobile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
